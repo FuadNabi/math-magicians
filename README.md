@@ -1,3 +1,12 @@
+<div align="center">
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
@@ -7,6 +16,10 @@
     - [Tech Stack](#tech-stack)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Usage](#usage)
+  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -47,12 +60,39 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-<ul>
-  <li>Get a copy of the project</li>
-  <li>Come into the project directory</li>
-  <li>Open the project using code editor of your choice</li>
-  <li>Open your prefered browser</li>
-</ul>
+## Clone Git Repository <a name="setup"></a>
+
+-Reach to following Github URL:
+
+```
+https://github.com/FuadNabi/math-magicians
+
+```
+
+-Copy the URL.
+
+-In Visual Studio Code "Terminal" change the current working directory to the location where you want the cloned directory.
+
+-Type git clone in the terminal, paste the URL you copied earlier, and press "enter" to create your local clone.
+
+```
+$ git clone https://github.com/FuadNabi/math-magicians
+```
+
+
+## Usage <a name="usage"></a>
+
+```
+npm start
+```
+
+## Run tests <a name="run-tests"></a>
+
+To run tests, run the following command:
+
+```sh
+  npm test
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
