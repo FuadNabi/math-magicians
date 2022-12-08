@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
 const Calculator = () => {
-  const [state, setState] = useState();
+  const [state, setState] = useState({});
 
   const buttonClick = (element) => {
     setState(calculate(state, element.target.textContent));
