@@ -7,6 +7,8 @@ body {
 .buttons-cont {
   display: grid;
   grid-template-rows: 16% 16% 16% 16% 16% 16%;
+  width: 400px;
+  height: 400px;
 }
 
 .calc-section {
@@ -31,7 +33,6 @@ body {
   background-color: #f5903f;
   border: 1px solid #d1d1d1;
   cursor: pointer;
-  padding: 30px 50px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -51,7 +52,6 @@ body {
   border: 1px solid #d1d1d1;
   cursor: pointer;
   transition: 0.3s;
-  padding: 30px 50px;
   display: flex;
   justify-content: center;
   align-items: center;
