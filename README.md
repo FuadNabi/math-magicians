@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/FuadNabi/math-magicians)
+- [Live Demo Link](https://fuadnabi.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
