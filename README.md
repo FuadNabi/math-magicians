@@ -113,6 +113,13 @@ To run tests, run the following command:
 - Twitter: [MudasirIssah](https://twitter.com/MudasirIssah)
 - LinkedIn: [MudasirIssah](https://www.linkedin.com/in/MudasirIssah/)
 
+👤 **Author3**
+
+- GitHub: [Mudasiri](https://github.com/atatm)
+- Twitter: [MudasirIssah](https://twitter.com/@alelign_ayana)
+- LinkedIn: [MudasirIssah](https://www.linkedin.com/in/alelign_ayana/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
