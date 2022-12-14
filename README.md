@@ -101,11 +101,17 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Author1**
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - Twitter: [FuadNebiyev2](https://twitter.com/FuadNebiyev2)
 - LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev-a5234524a/)
+
+👤 **Author2**
+
+- GitHub: [Mudasiri](https://github.com/mudasiri)
+- Twitter: [MudasirIssah](https://twitter.com/MudasirIssah)
+- LinkedIn: [MudasirIssah](https://www.linkedin.com/in/MudasirIssah/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
