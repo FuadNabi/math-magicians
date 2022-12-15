@@ -3,7 +3,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Math Magicians App README Template</b></h3>
 
 </div>
 
@@ -101,11 +101,24 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Author1**
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - Twitter: [FuadNebiyev2](https://twitter.com/FuadNebiyev2)
 - LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev-a5234524a/)
+
+👤 **Author2**
+
+- GitHub: [Mudasiri](https://github.com/mudasiri)
+- Twitter: [MudasirIssah](https://twitter.com/MudasirIssah)
+- LinkedIn: [MudasirIssah](https://www.linkedin.com/in/MudasirIssah/)
+
+👤 **Author3**
+
+- GitHub: [Mudasiri](https://github.com/atatm)
+- Twitter: [MudasirIssah](https://twitter.com/@alelign_ayana)
+- LinkedIn: [MudasirIssah](https://www.linkedin.com/in/alelign_ayana/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

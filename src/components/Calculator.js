@@ -2,13 +2,15 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
 const Calculator = () => {
-  const [state, setState] = useState({});
+  const [state, setState] = useState({
+    total: '0',
+  });
 
   const buttonClick = (element) => {
     setState(calculate(state, element.target.textContent));
   };
 
-  const { total, next } = state;
+  const { total, next, operation } = state;
 
   return (
     <div className="calculator-cont">
@@ -18,7 +20,13 @@ const Calculator = () => {
         </h3>
       </div>
       <div className="buttons-cont">
-        <div className="calc-section">{next || total || 0}</div>
+        <div className="calc-section">
+          { total }
+          {' '}
+          {operation }
+          {' '}
+          { next }
+        </div>
         <div className="container-row">
           <button type="button" onClick={buttonClick} className="button-grey">AC</button>
           <button type="button" onClick={buttonClick} className="button-grey">+/-</button>

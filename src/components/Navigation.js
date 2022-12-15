@@ -14,7 +14,7 @@ const Navigation = () => {
       text: 'Calculator',
     },
     {
-      id: 2,
+      id: 3,
       path: '/math-magicians/quote',
       text: 'Quote',
     },
