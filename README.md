@@ -18,7 +18,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Usage](#usage)
-  - [Deployment](#triangular_flag_on_post-deployment)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
