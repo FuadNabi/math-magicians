@@ -27,7 +27,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-> Math Magicians - It is a simple calculator application created with React.
+> Math Magicians - It is a website for all fans of mathematics. It is a single-page app (SPA) that allows users to: Make simple calculations. Read a random math-related quote. To build this application, we use React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
