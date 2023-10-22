@@ -104,7 +104,7 @@ To run tests, run the following command:
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - Twitter: [FuadNabiyev](https://twitter.com/FuadNabiyev_)
-- LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev-a5234524a/)
+- LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
 
 👤 **Author2**
 
